@@ -5,7 +5,7 @@
 #include "head_2.h"
 
 extern void func_1(void);
-extern viud func_2(void);
+extern void func_2(void);
 
 int main(void) {
     
